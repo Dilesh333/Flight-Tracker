@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const API_KEY = "e6914b2125479444755d8d72654ba0fb";
+  const API_KEY = "API_KEY";//to secure removing the key
   const API_URL = "https://api.aviationstack.com/v1/flights";
 
   //StateManagement
