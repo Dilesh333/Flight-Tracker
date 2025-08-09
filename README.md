@@ -13,8 +13,8 @@ View the live [here](https://flighttracker333.netlify.app).
 ## Screenshots
 
 ### Mobile
-![Mobile Screenshot](/home.png)
-![Mobile Screenshot](/status.png)
+![Mobile Screenshot](/home.jpg)
+![Mobile Screenshot](/status.jpg)
 
 ### Desktop
 ![Desktop Screenshot](/home1.png)
